@@ -1,0 +1,2 @@
+pypdfium2>=4.30
+pymupdf>=1.24
